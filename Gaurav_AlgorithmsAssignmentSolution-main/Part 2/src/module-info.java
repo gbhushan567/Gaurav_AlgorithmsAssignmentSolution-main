@@ -1,2 +1,2 @@
-module Swabhiman_AlgorithmAssigmentSolution {
+module Gaurav_AlgorithmAssigmentSolution {
 }
