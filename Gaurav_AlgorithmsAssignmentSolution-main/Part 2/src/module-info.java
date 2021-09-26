@@ -1,2 +1,0 @@
-module Gaurav_AlgorithmAssigmentSolution {
-}
