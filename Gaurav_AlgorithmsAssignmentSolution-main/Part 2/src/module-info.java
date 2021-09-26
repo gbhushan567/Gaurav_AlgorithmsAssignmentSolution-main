@@ -1,2 +1,0 @@
-module Swabhiman_AlgorithmAssigmentSolution {
-}
