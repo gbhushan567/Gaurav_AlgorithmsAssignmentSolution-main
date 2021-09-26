@@ -1,4 +1,4 @@
-# Swabhiman_AlgorithmsAssignmentSolution
+# Gaurav_AlgorithmsAssignmentSolution
 Graded Assignment 2 solutions
 
 Part 1 : Masters Theorom
